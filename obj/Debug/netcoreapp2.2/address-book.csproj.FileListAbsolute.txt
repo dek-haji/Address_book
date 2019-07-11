@@ -1,0 +1,11 @@
+/Users/dekhaji/workspace/csharp/address-book/bin/Debug/netcoreapp2.2/address-book.deps.json
+/Users/dekhaji/workspace/csharp/address-book/bin/Debug/netcoreapp2.2/address-book.runtimeconfig.json
+/Users/dekhaji/workspace/csharp/address-book/bin/Debug/netcoreapp2.2/address-book.runtimeconfig.dev.json
+/Users/dekhaji/workspace/csharp/address-book/bin/Debug/netcoreapp2.2/address-book.dll
+/Users/dekhaji/workspace/csharp/address-book/bin/Debug/netcoreapp2.2/address-book.pdb
+/Users/dekhaji/workspace/csharp/address-book/obj/Debug/netcoreapp2.2/address-book.csprojAssemblyReference.cache
+/Users/dekhaji/workspace/csharp/address-book/obj/Debug/netcoreapp2.2/address-book.csproj.CoreCompileInputs.cache
+/Users/dekhaji/workspace/csharp/address-book/obj/Debug/netcoreapp2.2/address-book.AssemblyInfoInputs.cache
+/Users/dekhaji/workspace/csharp/address-book/obj/Debug/netcoreapp2.2/address-book.AssemblyInfo.cs
+/Users/dekhaji/workspace/csharp/address-book/obj/Debug/netcoreapp2.2/address-book.dll
+/Users/dekhaji/workspace/csharp/address-book/obj/Debug/netcoreapp2.2/address-book.pdb
